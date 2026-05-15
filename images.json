@@ -1,0 +1,26 @@
+{
+    "easy": [],
+    "hard": [],
+    "number": [
+        {
+            "bgImageName": "cool_anime_art",
+            "bgImagePath": "https://raw.githubusercontent.com/stickersanimateddev/animecolorbynumber/refs/heads/main/n37.jpg",
+            "outlinePath": "https://raw.githubusercontent.com/stickersanimateddev/animecolorbynumber/refs/heads/main/n38.png"
+        },
+        {
+            "bgImageName": "cool_anime_art",
+            "bgImagePath": "https://raw.githubusercontent.com/stickersanimateddev/animecolorbynumber/refs/heads/main/n39.jpg",
+            "outlinePath": "https://raw.githubusercontent.com/stickersanimateddev/animecolorbynumber/refs/heads/main/n40.png"
+        },
+        {
+            "bgImageName": "cool_anime_art",
+            "bgImagePath": "https://raw.githubusercontent.com/stickersanimateddev/animecolorbynumber/refs/heads/main/n43.jpg",
+            "outlinePath": "https://raw.githubusercontent.com/stickersanimateddev/animecolorbynumber/refs/heads/main/n44.png"
+        },
+        {
+            "bgImageName": "cool_anime_art",
+            "bgImagePath": "https://raw.githubusercontent.com/stickersanimateddev/animecolorbynumber/refs/heads/main/n45.jpg",
+            "outlinePath": "https://raw.githubusercontent.com/stickersanimateddev/animecolorbynumber/refs/heads/main/n46.png"
+        }
+    ]
+}
